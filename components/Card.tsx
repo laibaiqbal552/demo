@@ -32,7 +32,7 @@ const products = [
   {
     id: 1,
     logo: "/images/Nestle-Logo-2015-present.jpg",
-    title: "Saudiarabia Aramco",
+    title: "Aramco",
   },
   {
     id: 2,
@@ -42,7 +42,7 @@ const products = [
   {
     id: 3,
     logo: "/images/Nestle-Logo-2015-present.jpg",
-    title: "Saudiarabia Aramco",
+    title: "Saudiarabia ",
   },
   {
     id: 4,
