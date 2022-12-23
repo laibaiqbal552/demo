@@ -4,7 +4,7 @@ import Card from "../components/Card";
 const Index = () => {
   return (
     <div className="min-h-screen py-12 bg-gray-200">
-      <div className="container mx-auto mb-8 lg:mb-12 sm:px-5">
+      <div className="container mx-auto mb-8 lg:mb-12 ">
         <div className="flex flex-wrap justify-center gap-8 md:gap-12 sm:justify-between md:flex-nowrap">
           <p className="text-xl font-semibold text-gray-900 ">Shop by Brands</p>
           <div className="flex items-center ">
@@ -19,7 +19,7 @@ const Index = () => {
           </div>
         </div>
       </div>
-      <div className="container mx-auto sm:px-5">
+      <div className="container mx-auto ">
         <Card />
       </div>
     </div>
