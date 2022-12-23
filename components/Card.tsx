@@ -31,42 +31,42 @@ export default Card;
 const products = [
   {
     id: 1,
-    logo: "/images/Nestle-Logo-2015-present.jpg",
-    title: "lifebuoy",
+    logo: "/images/images.jpeg",
+    title: "bashundhara group",
   },
   {
     id: 2,
-    logo: "/images/Nestle-Logo-2015-present.jpg",
-    title: "nestle",
+    logo: "/images/images.jpeg",
+    title: "bashundhara group",
   },
   {
     id: 3,
-    logo: "/images/Nestle-Logo-2015-present.jpg",
-    title: "toyota",
+    logo: "/images/images.jpeg",
+    title: "bashundhara group",
   },
   {
     id: 4,
-    logo: "/images/Nestle-Logo-2015-present.jpg",
-    title: "MI",
+    logo: "/images/images.jpeg",
+    title: "bashundhara group",
   },
   {
     id: 5,
-    logo: "/images/Nestle-Logo-2015-present.jpg",
-    title: "MI",
+    logo: "/images/images.jpeg",
+    title: "bashundhara group",
   },
   {
     id: 6,
-    logo: "/images/Nestle-Logo-2015-present.jpg",
-    title: "MI",
+    logo: "/images/images.jpeg",
+    title: "bashundhara group",
   },
   {
     id: 7,
-    logo: "/images/Nestle-Logo-2015-present.jpg",
-    title: "MI",
+    logo: "/images/images.jpeg",
+    title: "bashundhara group",
   },
   {
     id: 8,
-    logo: "/images/Nestle-Logo-2015-present.jpg",
-    title: "MI",
+    logo: "/images/images.jpeg",
+    title: "bashundhara group",
   },
 ];
