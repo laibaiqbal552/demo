@@ -1,4 +1,4 @@
-import Image from "next/image";
+import Image from "next/legacy/image";
 import React from "react";
 
 const Card = () => {
@@ -8,18 +8,23 @@ const Card = () => {
         return (
           <div
             key="id"
-            className="p-3 bg-white rounded-sm shadow-lg md:p-5 md:mx-0"
+            className="flex flex-col justify-between h-full p-3 bg-white rounded-sm shadow-lg md:p-5 md:mx-0"
           >
-            <Image
-              src={logo}
-              alt="logo"
-              width="400"
-              height="400"
-              className="mb-8"
-            />
-            <p className="w-full text-xs text-center capitalize md:text-base sm:text-sm">
-              {title}
-            </p>
+            <div>
+              <Image
+                src={logo}
+                alt="logo"
+                width={500}
+                height={500}
+                className="object-cover w-full"
+              />
+            </div>
+
+            <div className="mt-auto">
+              <p className="w-full text-xs text-center capitalize text-ellipsis md:text-base sm:text-sm">
+                {title}
+              </p>
+            </div>
           </div>
         );
       })}
