@@ -3,7 +3,7 @@ import React from "react";
 
 const Card = () => {
   return (
-    <div className="grid grid-cols-3 gap-4 place-content-center place-items-center xl:grid-cols-8 lg:grid-cols-6 md:grid-cols-4">
+    <div className="grid grid-cols-3 gap-3 sm:gap-4 place-content-center place-items-center xl:grid-cols-8 lg:grid-cols-6 md:grid-cols-4">
       {products.map(({ id, logo, title }) => {
         return (
           <div
