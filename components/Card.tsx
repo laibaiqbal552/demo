@@ -17,7 +17,9 @@ const Card = () => {
               height="400"
               className="mb-8"
             />
-            <p className="w-full text-center capitalize">{title}</p>
+            <p className="w-full text-xs text-center capitalize md:text-base sm:text-sm">
+              {title}
+            </p>
           </div>
         );
       })}
