@@ -31,8 +31,8 @@ export default Card;
 const products = [
   {
     id: 1,
-    logo: "/images/images.jpeg",
-    title: "bashundhara group",
+    logo: "/images/Nestle-Logo-2015-present.jpg",
+    title: "Saudiarabia Aramco",
   },
   {
     id: 2,
@@ -41,18 +41,18 @@ const products = [
   },
   {
     id: 3,
-    logo: "/images/images.jpeg",
-    title: "bashundhara group",
+    logo: "/images/Nestle-Logo-2015-present.jpg",
+    title: "Saudiarabia Aramco",
   },
   {
     id: 4,
-    logo: "/images/images.jpeg",
-    title: "bashundhara group",
+    logo: "/images/Nestle-Logo-2015-present.jpg",
+    title: "Saudiarabia Aramco",
   },
   {
     id: 5,
-    logo: "/images/images.jpeg",
-    title: "bashundhara group",
+    logo: "/images/Nestle-Logo-2015-present.jpg",
+    title: "Saudiarabia Aramco",
   },
   {
     id: 6,
@@ -61,12 +61,12 @@ const products = [
   },
   {
     id: 7,
-    logo: "/images/images.jpeg",
-    title: "bashundhara group",
+    logo: "/images/Nestle-Logo-2015-present.jpg",
+    title: "Saudiarabia Aramco",
   },
   {
     id: 8,
-    logo: "/images/images.jpeg",
-    title: "bashundhara group",
+    logo: "/images/Nestle-Logo-2015-present.jpg",
+    title: "Saudiarabia Aramco",
   },
 ];
